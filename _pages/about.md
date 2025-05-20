@@ -26,7 +26,7 @@ latest_posts:
 
 Hey :wave:! I'm an incoming CS PhD student at **Cornell University** :bear: currently interning at **Uber** :car:.
 
-My research interests are broadly in probablistic machine learning :robot: :
+My research interests are broadly in **probablistic machine learning* :robot: :
 
 - deep generative models
 - large language models
