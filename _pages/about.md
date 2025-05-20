@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey :wave:! I'm an incoming CS PhD student at **Cornell University** :bear: currently interning at **Uber** :car:.
+Hey :wave:! I'm an incoming CS PhD student at **Cornell University** :bear:. I am currently interning at **Uber** ML :car:.
 
 My research interests are broadly in **probablistic machine learning** :robot: :
 
