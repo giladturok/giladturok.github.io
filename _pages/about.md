@@ -36,6 +36,6 @@ My research interests are in probablistic machine learning, which include:
 - AI4Science
 - Sampling & statistical inference
 
-Previously I spent two wonderful years at the Flatiron Institute working with Dr. Bob Carpenter. I also interned at Uber machine learning and graduated from Columbia University with a B.A. in Applied Mathematics.
+Previously I spent two wonderful years at the **Flatiron Institute** working with Dr. Bob Carpenter. I also interned at Uber machine learning and graduated from Columbia University with a **B.A. in Applied Mathematics**.
 
 I'm interested in many topics outside of research: philosophy, fitness/health, comedy, open source software, etc. I love when people reach out -- so please do!
