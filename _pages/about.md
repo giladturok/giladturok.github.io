@@ -24,13 +24,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey :wave:! I'm an incoming CS PhD student at Cornell. My research interests are in probablistic machine learning :robot:, which include:
+Hey :wave:! I'm an incoming CS PhD student at Cornell. My research interests are in probablistic machine learning :robot: :
 
-- generative models
+- deep generative models
 - large language models
 - AI4Science
 - sampling & statistical inference
 
-Previously, I interned at **Uber** machine learning. Before my PhD, I spent two wonderful years at the **Flatiron Institute** with Dr. Bob Carpenter. I graduated from **Columbia University** with a B.A. in Applied Mathematics.
+Previously, I interned at **Uber** machine learning.
+
+Before my PhD, I spent two wonderful years at the **Flatiron Institute** with Dr. Bob Carpenter. And before that, I graduated from **Columbia University** with a B.A. in Applied Mathematics.
 
 I'm interested in many topics outside of research: philosophy, fitness/health, comedy, open source software, etc. I love when people reach out -- so please do!
