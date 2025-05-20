@@ -8,10 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: NYC :statue_of_liberty:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey 👋! I'm an incoming CS PhD student at Cornell.
+Hey :wave:! I'm an incoming CS PhD student at Cornell.
 
 My research interests are in probablistic machine learning, which include:
 
@@ -36,6 +33,6 @@ My research interests are in probablistic machine learning, which include:
 - AI4Science
 - Sampling & statistical inference
 
-Previously I interned at **Uber** machine learning and spent two wonderful years at the **Flatiron Institute** working with Dr. Bob Carpenter. I also graduated from **Columbia University** with a B.A. in Applied Mathematics.
+Previously I interned at **Uber** machine learning and spent two wonderful years at the **Flatiron Institute** with Dr. Bob Carpenter. I also graduated from **Columbia University** with a B.A. in Applied Mathematics.
 
 I'm interested in many topics outside of research: philosophy, fitness/health, comedy, open source software, etc. I love when people reach out -- so please do!
