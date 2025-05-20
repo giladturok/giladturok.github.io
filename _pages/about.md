@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey :wave:! I'm an incoming CS PhD student at **Cornell** University currently interning at **Uber**.
+Hey :wave:! I'm an incoming CS PhD student at **Cornell University** :bear: currently interning at **Uber** :car:.
 
 My research interests are broadly in probablistic machine learning :robot: :
 
@@ -33,4 +33,4 @@ My research interests are broadly in probablistic machine learning :robot: :
 - AI4Science
 - sampling & statistical inference
 
-Before my PhD, I spent two wonderful years at the **Flatiron Institute** with [Dr. Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia University** with a BA in Applied Mathematics.
+Before my PhD, I spent two wonderful years at the **Flatiron Institute** :office: with [Dr. Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia University** :lion: with a BA in Applied Mathematics.
