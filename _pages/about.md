@@ -35,6 +35,6 @@ My research interests are broadly in probablistic machine learning :robot: :
 
 Previously, I interned at **Uber** machine learning.
 
-Before my PhD, I spent two wonderful years at the **Flatiron Institute** (Simons Foundation) with Dr. Bob Carpenter. Before that, I graduated from **Columbia University** with a B.A. in Applied Mathematics.
+Before my PhD, I spent two wonderful years at the **Flatiron Institute** with Dr. Bob Carpenter. Before that, I graduated from **Columbia University** with a B.A. in Applied Mathematics.
 
 I'm interested in many topics outside of research: philosophy, fitness/health, comedy, open source software, etc. I love when people reach out -- so please do!
