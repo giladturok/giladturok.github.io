@@ -33,4 +33,4 @@ My research interests are broadly in **probablistic machine learning** :robot: :
 - AI4Science
 - sampling & statistical inference
 
-Before my PhD, I spent two wonderful years at the **Flatiron Institute** with [Dr. Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia University** :lion: with a BA in Applied Mathematics.
+Before my PhD, I spent two wonderful years at the **Flatiron Institute** with [Dr. Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia** :lion: with a BA in Applied Mathematics.
