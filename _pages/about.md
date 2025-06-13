@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey :wave:! I'm an incoming CS PhD student at **Cornell Tech** :bear: :aerial_tramway:, supported by the NSF Graduate Research Fellowship Program.
+Hey :wave:! I'm an incoming CS PhD student at **Cornell Tech** :bear: :aerial_tramway: and Guest Researcher at the **Flatiron Institute** :lab_coat:. I am fortunate to be supported by the NSF GRFP.
 
 My research interests are broadly in **probablistic machine learning** :robot: :
 
