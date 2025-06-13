@@ -33,4 +33,6 @@ My research interests are broadly in **probablistic machine learning** :robot: :
 - AI4Science
 - sampling & statistical inference
 
-I am currently interning at **Uber** working on RL for pricing model experimentation. Previously, I spent two wonderful years at the **Flatiron Institute** with [Dr. Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia** :lion: with a BA in Applied Mathematics.
+I am currently interning at **Uber** working on RL for pricing model experimentation.
+
+Previously, I spent two wonderful years at the **Flatiron Institute** with [Dr. Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia** :lion: with a BA in Applied Mathematics.
