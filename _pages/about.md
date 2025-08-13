@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey :wave:! I'm a 1st year CS PhD student at **Cornell Tech** :bear: :aerial_tramway:, fortunate to be supported by the NSF GRFP. I am also a Guest Researcher at the **Flatiron Institute**.
+Hey :wave:! I'm a first year CS PhD student at **Cornell Tech** :bear: :aerial_tramway:, fortunate to be supported by the NSF GRFP. I am also a Guest Researcher at the **Flatiron Institute**.
 
 My research interests are broadly in **probablistic machine learning** :robot: :
 
