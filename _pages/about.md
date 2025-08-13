@@ -24,15 +24,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey :wave:! I'm an incoming CS PhD student at **Cornell Tech** :bear: :aerial_tramway:, fortunate to be supported by the NSF GRFP. I am also a Guest Researcher at the **Flatiron Institute**.
+Hey :wave:! I'm a 1st year CS PhD student at **Cornell Tech** :bear: :aerial_tramway:, fortunate to be supported by the NSF GRFP. I am also a Guest Researcher at the **Flatiron Institute**.
 
 My research interests are broadly in **probablistic machine learning** :robot: :
 
-- deep generative models
-- large language models
+- generative models (discrete diffusion)
 - AI4Science
 - sampling & statistical inference
 
-I am currently interning at **Uber** working on RL for experimentation.
+Previously I interned at **Uber** working on RL for experimentation.
 
 Before grad school, I spent two wonderful years at the **Flatiron Institute** with [Dr. Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia** :lion: with a BA in Applied Math.
