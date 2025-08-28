@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 ---
 
+Most recent publications can be found on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=3CfDsjUAAAAJ&view_op=list_works&gmla=AH8HC4z06w8RHf5QFhtGk2Q97Ct7SdnkyXuuLr4Dv0390gnR440JWJiDPZ7pItkaNufO-sxkp1a7Kf6qMgC3qA3q9S1FM_k0uBY2YkDHWKWAOT9XRLJi0Wtd-2HS_Vj6hFwNZj8xbwP7g59o0Enbovh-W7ZDapbmGQ).
+
 <!-- _pages/publications.md -->
 
 <!-- Bibsearch Feature -->
