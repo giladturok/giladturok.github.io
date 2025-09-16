@@ -28,7 +28,7 @@ Hey :wave:! I'm a first year CS PhD student at **Cornell Tech** :bear: :aerial_t
 
 My research interests are broadly in **probablistic machine learning** :robot: :
 
-- generative models (discrete diffusion language models)
+- generative models (especially diffusion language models)
 - AI4Science
 - sampling & statistical inference
 
