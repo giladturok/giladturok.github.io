@@ -24,11 +24,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey :wave:! I'm a first year CS PhD student at **Cornell Tech** :bear: :aerial_tramway:, fortunate to be supported by the NSF GRFP. I am also a Guest Researcher at the **Flatiron Institute**.
+Hey :wave:! I'm a first year CS PhD student at **Cornell Tech** :bear: :aerial_tramway:, fortunate to be supported by the NSF Graduate Research Fellowship. I am also a Guest Researcher at the **Flatiron Institute**.
 
 My research interests are broadly in **probablistic machine learning** :robot: :
 
-- generative models (especially diffusion LLMs)
+- generative models
+- diffusion language models
 - AI4Science
 - sampling & statistical inference
 
