@@ -26,7 +26,7 @@ latest_posts:
 
 Hey :wave:! I'm a first year CS PhD student at **Cornell Tech** :bear: :aerial_tramway:, fortunate to be supported by the NSF Graduate Research Fellowship. I am also a Guest Researcher at the **Flatiron Institute**.
 
-My research is currently focused on **diffusion language models**, though I'm broadly interested in **probablistic machine learning** :robot: :
+My research is currently focused on **diffusion language models**. I'm broadly interested in **probablistic machine learning** :robot: :
 
 - generative models
 - AI4Science
