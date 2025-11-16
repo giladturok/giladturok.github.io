@@ -34,6 +34,4 @@ I'm broadly interested in **probablistic machine learning** :robot: :
 
 My research is currently focused on designing **diffusion language models**.
 
-Previously I interned at **Uber** working on RL for experimentation.
-
-Before grad school, I spent two wonderful years at the **Flatiron Institute** with [Dr. Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia** :lion: with a BA in Applied Math.
+Previously I interned at **Uber** working on RL for experimentation. Before grad school, I spent two wonderful years at the **Flatiron Institute** with [Dr. Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia** :lion: with a BA in Applied Math.
