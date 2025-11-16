@@ -32,7 +32,7 @@ I'm broadly interested in **probablistic machine learning** :robot: :
 - AI4Science
 - sampling & statistical inference
 
-My research is currently focused on **diffusion language models** that are efficient, scalable, and performant.
+My research is currently focused on designing **diffusion language models**.
 
 Previously I interned at **Uber** working on RL for experimentation.
 
