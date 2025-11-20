@@ -36,7 +36,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-attending-aistats-in-phuket-thailand",
-          title: '🌴 Attending AIStats in Phuket, Thailand',
+          title: '🛫 Attending AIStats in Phuket, Thailand',
           description: "",
           section: "News",},{id: "news-interning-at-uber",
           title: '🚙 Interning at Uber',
