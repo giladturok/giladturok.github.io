@@ -35,7 +35,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-starting-my-phd-at-cornell-tech",
+            },},{id: "news-interning-at-uber",
+          title: '🚙 Interning at Uber',
+          description: "",
+          section: "News",},{id: "news-starting-my-phd-at-cornell-tech",
           title: '🤓 Starting my PhD at Cornell Tech',
           description: "",
           section: "News",},{id: "projects-project-1",
