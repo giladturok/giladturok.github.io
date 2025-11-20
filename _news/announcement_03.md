@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🛫 Attending AIStats in Phuket, Thailand
+:airplane: Attending AIStats in Phuket, Thailand
