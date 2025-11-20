@@ -39,7 +39,7 @@ ninja.data = [{
           title: '🛫 Attending AIStats in Phuket, Thailand',
           description: "",
           section: "News",},{id: "news-interning-at-uber",
-          title: '🚙 Interning at Uber',
+          title: '💼 Interning at Uber',
           description: "",
           section: "News",},{id: "news-starting-my-phd-at-cornell-tech",
           title: '🤓 Starting my PhD at Cornell Tech',
