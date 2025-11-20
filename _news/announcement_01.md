@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🛫 Attending NeurIPS in Vancouver, Canada
+:airplane: Attending NeurIPS in Vancouver, Canada
