@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🚙 Interning at Uber
+💼 Interning at Uber
