@@ -35,4 +35,4 @@ I am fortunate to be supported by the NSF Graduate Research Fellowship. I am als
 
 Previously I interned at **Uber** working on RL for experimentation. 
 
-Before grad school, I spent two wonderful years at the **Flatiron Institute** with [Dr. Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia** :lion: with a BA in Applied Math.
+Before grad school, I spent two wonderful years at the **Flatiron Institute** with [Dr. Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia University** :lion: with a BA in Applied Mathematics.
