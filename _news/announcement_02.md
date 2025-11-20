@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:partying_face: Our paper is accepted to AIStats
+🥳 Our paper is accepted to AIStats
