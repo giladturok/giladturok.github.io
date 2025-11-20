@@ -24,13 +24,14 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hey :wave:! I'm a first year CS PhD student at **Cornell Tech** :bear: :aerial_tramway:, Cornell University. I am working with Professors [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/) and [Chris De Sa](https://www.cs.cornell.edu/~cdesa/). I am fortunate to be supported by the NSF Graduate Research Fellowship. I am also a Guest Researcher at the **Flatiron Institute**.
+Hey :wave:! I'm a first year CS PhD student at **Cornell Tech** :bear: :aerial_tramway:, Cornell University. I am working with Professors [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/) and [Chris De Sa](https://www.cs.cornell.edu/~cdesa/).
 
-My research is currently focused on designing **diffusion language models**. I'm broadly interested in **probablistic machine learning** :robot::
+My research is currently focused on designing fast, controllable, and performant **diffusion language models**. I'm broadly interested in **probablistic machine learning** :robot::
 - generative models
 - AI4Science
 - sampling & statistical inference.
 
+I am fortunate to be supported by the NSF Graduate Research Fellowship. I am also a Guest Researcher at the **Flatiron Institute**.
 
 Previously I interned at **Uber** working on RL for experimentation. 
 
