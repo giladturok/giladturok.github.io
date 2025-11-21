@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-✈️ Attending NeurIPS 2024 in Vancouver, Canada
+✈️ Attending NeurIPS in Vancouver, Canada
