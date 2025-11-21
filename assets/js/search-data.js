@@ -35,8 +35,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-️-attending-neurips-in-vancouver-canada",
-          title: '✈️ Attending NeurIPS in Vancouver, Canada',
+            },},{id: "news-️-attending-neurips-2024-in-vancouver-canada",
+          title: '✈️ Attending NeurIPS 2024 in Vancouver, Canada',
           description: "",
           section: "News",},{id: "news-our-paper-is-accepted-to-aistats-2025",
           title: '🥳 Our paper is accepted to AIStats 2025',
