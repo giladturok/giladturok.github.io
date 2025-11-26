@@ -26,7 +26,7 @@ latest_posts:
 
 Hey :wave:! I'm a 1st year Computer Science PhD student at **Cornell Tech, Cornell University** :bear: :aerial_tramway:. I am working with Professors [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/) and [Chris De Sa](https://www.cs.cornell.edu/~cdesa/).
 
-My research is currently focused on designing fast, controllable, and performant **diffusion language models**. I'm broadly interested in **probablistic machine learning** :robot::
+My research is currently focused on designing mathematically principled **diffusion language models** that are fast, controllable, and performant. I'm broadly interested in **probablistic machine learning** :robot::
 - generative models
 - AI4Science
 - sampling & statistical inference.
