@@ -26,10 +26,7 @@ latest_posts:
 
 Hey :wave:! I'm a 1st year Computer Science PhD student at **Cornell Tech, Cornell University** :bear: :aerial_tramway:. I am working with Professors [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/) and [Chris De Sa](https://www.cs.cornell.edu/~cdesa/).
 
-My research is focused on designing mathematically principled **diffusion language models**. I'm broadly interested in **probablistic machine learning** :robot::
-- generative models
-- AI4Science
-- sampling & statistical inference.
+My research is focused on designing mathematically principled **diffusion language models**. I'm broadly interested in **probablistic machine learning** :robot:, including generative models, AI4Science, and sampling & statistical inference.
 
 I am fortunate to be supported by the NSF Graduate Research Fellowship. I am also a Guest Researcher at the **Flatiron Institute**.
 
