@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🤓 Starting my PhD at Cornell Tech
+🤓 Starting my CS PhD at Cornell Tech, Cornell University
