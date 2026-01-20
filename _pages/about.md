@@ -26,6 +26,6 @@ latest_posts:
 
 Hi :wave:, I'm Gilad. I'm a Computer Science PhD student at **Cornell University** :bear: :aerial_tramway:, supported by the **NSF Graduate Research Fellowship**. I am fortunate to work with Professors [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/) and [Chris De Sa](https://www.cs.cornell.edu/~cdesa/).
 
-My research is focused on designing mathematically principled **diffusion language models**. I'm broadly interested in **probablistic machine learning** :robot:, including generative models, AI4Science, and sampling & statistical inference.
+My research is focused on designing mathematically principled **diffusion language models**. I'm broadly interested in **probablistic machine learning** :robot:, including generative models, LLMs, AI4Science, and sampling & Bayesian inference.
 
 Previously I interned at **Uber** applying RL to experimentation. Before grad school, I spent two wonderful years at the Simons Foundation's **Flatiron Institute** with Dr. [Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia University** :lion: with a BA in Applied Mathematics.
