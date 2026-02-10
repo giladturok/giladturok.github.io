@@ -269,8 +269,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Gilad]
-  first_name: [Turok]
+  last_name: [Turok]
+  first_name: [Gilad]
 
   style: apa
   locale: en
