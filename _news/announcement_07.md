@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎙️ Talk at NYU Generative Modeling Reading Group
+🎙️ Talk at New York University
