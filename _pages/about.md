@@ -31,4 +31,6 @@ My research is currently focused on designing **diffusion language models** for 
 - **Probabilistic foundations:** sampling, inference, measure transport
 - **Applications:** AI4Science and efficient ML systems
 
-This summer I'm interning at **Adobe Research**, and previously I've interned at **Uber** applying RL to experimentation. Before grad school, I spent two wonderful years at the Simons Foundation's **Flatiron Institute** with Dr. [Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia University** :lion: with a BA in Applied Mathematics.
+This summer I'm interning at **Adobe Research**, and previously I've interned at **Uber** applying RL to experimentation.
+
+Before grad school, I spent two wonderful years at the Simons Foundation's **Flatiron Institute** with Dr. [Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia University** :lion: with a BA in Applied Mathematics.
