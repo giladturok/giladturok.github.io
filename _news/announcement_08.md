@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-💼 Research scientist intern at Adobe
+💼 Research intern at Adobe
