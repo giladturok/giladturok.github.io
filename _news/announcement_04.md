@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-💼 ML intern at Uber
+💼 Machine learning intern at Uber
