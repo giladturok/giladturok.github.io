@@ -24,11 +24,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi :wave:, I'm Gilad. I'm a Computer Science PhD student at **Cornell University** :bear: :aerial_tramway:, supported by the **NSF Graduate Research Fellowship**. I am fortunate to work with Professors [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/) and [Chris De Sa](https://www.cs.cornell.edu/~cdesa/).
+Hi :wave:, I'm Gilad. I'm a Computer Science PhD student at **Cornell University** :bear: :aerial_tramway:, supported by the **NSF Graduate Research Fellowship**. I am fortunate to work with [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/) and [Chris De Sa](https://www.cs.cornell.edu/~cdesa/).
 
-My research is currently focused on designing **diffusion language models** for parallel text generation :robot:. I'm broadly interested in probabilistic machine learning:
-- **Deep generative models:** diffusion models, flow matching, LLMs
+My research is currently focused on **diffusion language models** for parallel, controllable, and flexible-order text generation :robot:. I design principled and efficient methods for pre-training, post-training, and inference of diffusion language models. I'm broadly interested in probabilistic machine learning:
+- **Deep generative models:** diffusion, flows, few-step generation
 - **Probabilistic foundations:** sampling, inference, measure transport
 - **Applications:** AI4Science and efficient ML systems
 
-This summer I'm interning at **Adobe Research**, and previously I've interned at **Uber** applying RL to experimentation. Before grad school, I spent two wonderful years at the Simons Foundation's **Flatiron Institute** with Dr. [Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia University** :lion: with a BA in Applied Mathematics.
+This summer I'm interning at **Adobe Research**, and previously I've interned at **Uber**. Before grad school, I spent two wonderful years at the Simons Foundation's **Flatiron Institute** with [Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia University** :lion: with a BA in Applied Mathematics.
