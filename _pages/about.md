@@ -26,7 +26,7 @@ latest_posts:
 
 Hi :wave:, I'm Gilad. I'm a Computer Science PhD student at **Cornell University** :bear: :aerial_tramway:, supported by the **NSF Graduate Research Fellowship**. I am fortunate to work with Professors [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/) and [Chris De Sa](https://www.cs.cornell.edu/~cdesa/).
 
-My research focuses on **diffusion language models** for parallel, flexible-order, and controllable text generation :robot:. I design principled and efficient methods for their pre-training, post-training, and inference. I'm broadly interested in probabilistic machine learning:
+My research focuses on **diffusion language models** for parallel, controllable, and any-order text generation :robot:. I design principled and efficient methods for their pre-training, post-training, and inference. I'm broadly interested in probabilistic machine learning:
 - **Generative models:** diffusion, flows, few-step generation
 - **Probabilistic foundations:** sampling, inference, measure transport
 - **Applications:** AI4Science and efficient ML systems
