@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🥳 Our paper is accepted to AIStats 2025
+🥳 Our paper is accepted to AIStats
