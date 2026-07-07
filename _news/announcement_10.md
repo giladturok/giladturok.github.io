@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🥳 Our paper is accepted at ICML
+🥳 Our paper is accepted to ICML
