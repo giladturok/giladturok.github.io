@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-✈️ Attending AIStats 2025 in Phuket, Thailand
+✈️ Attending AIStats in Phuket, Thailand
