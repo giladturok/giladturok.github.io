@@ -35,7 +35,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-️-attending-neurips-in-vancouver-canada",
+            },},{id: "news-research-analyst-at-flatiron-institute",
+          title: '💼 Research analyst at Flatiron Institute',
+          description: "",
+          section: "News",},{id: "news-️-attending-neurips-in-vancouver-canada",
           title: '✈️ Attending NeurIPS in Vancouver, Canada',
           description: "",
           section: "News",},{id: "news-our-paper-is-accepted-to-aistats",
