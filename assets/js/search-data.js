@@ -35,7 +35,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-research-analyst-at-flatiron-institute",
+            },},{id: "news-applied-math-ba-from-columbia-university",
+          title: '🎓 Applied Math BA from Columbia University',
+          description: "",
+          section: "News",},{id: "news-research-analyst-at-flatiron-institute",
           title: '💼 Research analyst at Flatiron Institute',
           description: "",
           section: "News",},{id: "news-️-attending-neurips-in-vancouver-canada",
