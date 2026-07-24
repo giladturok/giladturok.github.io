@@ -29,6 +29,6 @@ Hi :wave:, I'm Gilad. I'm a Computer Science PhD student at **Cornell University
 My research focuses on **diffusion language models** for parallel, controllable, and any-order text generation :robot:. I design principled and efficient methods for their training and inference. I'm broadly interested in probabilistic machine learning:
 - **Generative models:** diffusion & flows, few-step generation, guidance
 - **Probabilistic foundations:** sampling, inference, measure transport
-- **Applications:** AI4Science and efficient ML systems
+- **Applications:** AI4Science and ML systems
 
 This summer I'm interning at **Adobe Research**, and previously I interned at **Uber**. Before grad school, I spent two wonderful years at the Simons Foundation's **Flatiron Institute** with [Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia University** :lion: with a BA in Applied Mathematics.
