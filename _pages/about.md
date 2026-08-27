@@ -24,12 +24,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<div class="alert alert-warning" role="alert">
-  🚨 <strong>I'm looking for a summer 2027 research internship.</strong> If you think there's a fit, reach out.
-</div>
-
-> 🚨 <strong>I'm looking for a summer 2027 research internship.</strong> If you think there's a fit, reach out.
-
 Hi :wave:, I'm Gilad. I'm a Computer Science PhD student at **Cornell University** :bear: :aerial_tramway:, supported by the **NSF Graduate Research Fellowship**. I am fortunate to work with Professors [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/) and [Chris De Sa](https://www.cs.cornell.edu/~cdesa/).
 
 I'm broadly interested in probabilistic machine learning :robot: :
@@ -40,3 +34,5 @@ I'm broadly interested in probabilistic machine learning :robot: :
 My current research focuses on **diffusion language models** for parallel, controllable, & any-order text generation. I design principled methods for their training and inference. 
 
 Previously, I've interned at **Adobe Research** and **Uber**. Before grad school, I spent two wonderful years at the Simons Foundation's **Flatiron Institute** with [Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia University** :lion: with a BA in Applied Mathematics.
+
+:mega: **I'm looking for a summer 2027 research internship.** If you think there's a fit, feel free to reach out.
