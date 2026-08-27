@@ -27,7 +27,7 @@ latest_posts:
 Hi :wave:, I'm Gilad. I'm a Computer Science PhD student at **Cornell University** :bear: :aerial_tramway:, supported by the **NSF Graduate Research Fellowship**. I am fortunate to work with Professors [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/) and [Chris De Sa](https://www.cs.cornell.edu/~cdesa/).
 
 I'm broadly interested in probabilistic machine learning :robot: :
-- **Generative models:** LLMs, diffusion & flows
+- **Generative models:** LLMs, diffusions, flows
 - **Probabilistic foundations:** sampling, Bayesian inference, measure transport
 - **Applications:** AI4Science and ML systems
 
