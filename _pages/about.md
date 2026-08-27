@@ -24,6 +24,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<div class="alert alert-warning" role="alert">
+  🚨 <strong>I'm looking for a summer 2027 research internship.</strong> If you think there's a fit, reach out.
+</div>
+
+> 🚨 <strong>I'm looking for a summer 2027 research internship.</strong> If you think there's a fit, reach out.
+
 Hi :wave:, I'm Gilad. I'm a Computer Science PhD student at **Cornell University** :bear: :aerial_tramway:, supported by the **NSF Graduate Research Fellowship**. I am fortunate to work with Professors [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/) and [Chris De Sa](https://www.cs.cornell.edu/~cdesa/).
 
 I'm broadly interested in probabilistic machine learning :robot: :
