@@ -28,7 +28,7 @@ Hi :wave:, I'm Gilad. I'm a Computer Science PhD student at **Cornell University
 
 I'm broadly interested in probabilistic machine learning :robot: :
 - **Generative models:** LLMs, diffusions, flows
-- **Probabilistic foundations:** sampling, Bayesian inference, measure transport
+- **Probabilistic foundations:** sampling, inference, measure transport
 - **Applications:** AI4Science and ML systems
 
 My research focuses on **diffusion language models** for parallel, controllable, and any-order text generation. I design principled methods for their training and inference. 
