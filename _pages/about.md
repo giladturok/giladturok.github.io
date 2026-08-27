@@ -31,6 +31,6 @@ I'm broadly interested in probabilistic machine learning :robot: :
 - **Probabilistic foundations:** sampling, inference, measure transport
 - **Applications:** AI4Science and ML systems
 
-My research focuses on **diffusion language models** for parallel, controllable, and any-order text generation. I design principled methods for their training and inference. 
+My current research focuses on **diffusion language models** for parallel, controllable, & any-order text generation. I design principled methods for their training and inference. 
 
 Previously, I've interned at **Adobe Research** and **Uber**. Before grad school, I spent two wonderful years at the Simons Foundation's **Flatiron Institute** with [Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia University** :lion: with a BA in Applied Mathematics.
