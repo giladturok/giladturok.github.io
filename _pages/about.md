@@ -35,4 +35,4 @@ My current research focuses on **diffusion language models** for parallel, contr
 
 Previously, I've interned at **Adobe Research** and **Uber**. Before grad school, I spent two wonderful years at the Simons Foundation's **Flatiron Institute** with [Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia University** :lion: with a BA in Applied Mathematics.
 
-:mega: **I'm looking for a summer 2027 research internship.** If you think there's a fit, feel free to reach out.
+:mega: **I'm seeking a summer 2027 research internship.** Please reach out if you think there's a good fit.
