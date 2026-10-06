@@ -28,7 +28,7 @@ Hi :wave:, I'm Gilad. I'm a Computer Science PhD student at **Cornell University
 
 I work on generative modeling :robot:, with a focus on **diffusion and flow-based language models**. These models frame generation as a transport process rather than autoregressive next-token prediction. This enables parallel and any-order generation, token editing, and finer control. I study how to leverage these properties to make language generation faster and more capable. My research explores:
 
-- **Modeling & Pretraining:** new model classes, pretraining objectives, and likelihood evaluation
+- **Pre-training:** new modeling paradigms, pretraining objectives, and likelihood evaluation
 - **Inference:** few-step generation (e.g., flow maps) and speculative decoding
 - **Post-training:** RL-based fine-tuning and test-time scaling
 
