@@ -28,12 +28,11 @@ latest_posts:
 
 Hi :wave:, I'm Gilad. I'm a Computer Science PhD student at **Cornell University** :bear: :aerial_tramway:, supported by the **NSF Graduate Research Fellowship**. I am fortunate to work with Professors [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/) and [Chris De Sa](https://www.cs.cornell.edu/~cdesa/).
 
-I'm broadly interested in probabilistic machine learning :robot: :
-- **Generative models:** LLMs, diffusions, flows
-- **Probabilistic foundations:** sampling, inference, measure transport
-- **Applications:** AI4Science and ML systems
+I work on generative modeling :robot:, with a focus on **diffusion and flow-based language models**. These models frame generation as a transport process rather than autoregressive next-token prediction. This enables parallel and any-order generation, token editing, and finer control. I study how to leverage these properties to make language generation faster and more capable. My research explores:
 
-My current research focuses on **diffusion language models** for parallel, controllable, & any-order text generation. I design principled methods for their training and inference. 
+- **Modeling & Pretraining:** new model classes, pretraining objectives, and likelihood evaluation
+- **Inference:** few-step generation (e.g., flow maps) and speculative decoding
+- **Post-training:** RL-based fine-tuning and test-time scaling
 
 Previously, I've interned at **Adobe Research** and **Uber**. Before grad school, I spent two wonderful years at the Simons Foundation's **Flatiron Institute** with [Bob Carpenter](https://bob-carpenter.github.io). Before that, I graduated from **Columbia University** :lion: with a BA in Applied Mathematics.
 
