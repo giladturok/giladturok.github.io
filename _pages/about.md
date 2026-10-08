@@ -34,6 +34,6 @@ I work on machine learning and generative modeling, with a focus on **diffusion 
 - **Inference:** few-step generation (flow maps) and speculative decoding
 - **Post-training:** RL-based fine-tuning and test-time scaling -->
 
-Previously, I've spent time at **Adobe Research**, **Uber**, and the Simons Foundation's **Flatiron Institute** with [Bob Carpenter](https://bob-carpenter.github.io). I have a BA in Applied Mathematics from **Columbia University** :lion:. Reach out if you'd like to collaborate or just chat!
+Previously, I've spent time at **Adobe Research**, **Uber**, and the **Flatiron Institute** (Simons Foundation) with [Bob Carpenter](https://bob-carpenter.github.io). I have a BA in Applied Mathematics from **Columbia University** :lion:. Reach out if you'd like to collaborate or just chat!
 
 :mega: **I'm seeking a summer 2027 research internship.** Please be in touch if there's a good fit.
