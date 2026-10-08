@@ -26,7 +26,7 @@ latest_posts:
 
 Hi :wave:, I'm Gilad. I'm a Computer Science PhD student at **Cornell University** :bear: :aerial_tramway:, supported by the **NSF Graduate Research Fellowship**. I am fortunate to work with Professors [Volodymyr Kuleshov](https://www.cs.cornell.edu/~kuleshov/) and [Chris De Sa](https://www.cs.cornell.edu/~cdesa/).
 
-I work on machine learning and generative modeling, with a focus on **diffusion and flow-based language models**. These models frame generation as a transport process rather than sequential next-token prediction. This unlocks capabilities beyond autoregressive models: parallel and any-order generation, token editing, and finer control. I study how to leverage these properties -- across pre/post training and inference -- to make language generation faster and more capable.
+I work on machine learning and generative modeling, with a focus on **diffusion and flow-based language models**. These models frame generation as a transport process rather than sequential next-token prediction. This unlocks capabilities beyond autoregressive models: parallel and any-order generation, token editing, and finer control. I study how to leverage these properties -- across pre-training, post-training and inference -- to make language generation faster and more capable.
 
 <!-- My research explores:
 
